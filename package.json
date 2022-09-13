@@ -1,0 +1,14 @@
+{
+    "name": "3b9bd7f92b9f04a4cd4c4b9c4afd2e4e",
+    "theme": "syntax",
+    "version": "1.0.0",
+    "description": "dddd",
+    "keywords": [
+      "sssss"
+    ],
+    "repository": "https://github.com/Parmarno/examtheme_atom",
+    "license": "MIT",
+    "engines": {
+      "atom": ">=1.0.0 <2.0.0"
+    }
+  }
